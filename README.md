@@ -27,27 +27,27 @@ Link: https://www.python.org/downloads/
 # Content
 (Ref: https://www.kaggle.com/uciml/pima-indians-diabetes-database/data)
 
-The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient  had, their BMI, insulin level, age, and so on.
 
 Details of colum name are mentioned below
 
-PregnanciesNumber of times pregnant
+Pregnancies: Number of times pregnant
 
-GlucosePlasma glucose concentration a 2 hours in an oral glucose tolerance test
+Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 
-BloodPressureDiastolic blood pressure (mm Hg)
+BloodPressure: Diastolic blood pressure (mm Hg)
 
-SkinThicknessTriceps skin fold thickness (mm)
+SkinThickness: Triceps skin fold thickness (mm)
 
-Insulin2-Hour serum insulin (mu U/ml)
+Insulin: 2-Hour serum insulin (mu U/ml)
 
-BMIBody mass index (weight in kg/(height in m)^2)
+BMI: Body mass index (weight in kg/(height in m)^2)
 
-DiabetesPedigreeFunctionDiabetes pedigree function
+DiabetesPedigreeFunction: Diabetes pedigree function
 
-AgeAge (years)
+Age: Age (years)
 
-OutcomeClass variable (0 or 1)
+Outcome: Class variable (0 or 1)
 
 
 # Contribute
