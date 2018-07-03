@@ -1,8 +1,8 @@
 # diabetes_prediction
-This Model is can predict that whether the person have diabetes or not based on input information. 
+This Model is can predict that whether the person has diabetes or not based on input information. 
 
 # My view
-As every problem has different solutions so likewise this is my view and my approch to solve this dataset.
+As every problem has different solutions so likewise this is my view and my approach to solve this dataset.
 
 # Downloads:
 
@@ -27,17 +27,17 @@ Link: https://www.python.org/downloads/
 # Content
 (Ref: https://www.kaggle.com/uciml/pima-indians-diabetes-database/data)
 
-The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient  had, their BMI, insulin level, age, and so on.
+The datasets consist of several medical predictor variables and one target variable, Outcome. Predictor variables include the number of pregnancies the patient had, their BMI, insulin level, age, and so on.
 
-Details of colum name are mentioned below
+Details of column name are mentioned below
 
 Pregnancies: Number of times pregnant
 
 Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 
-BloodPressure: Diastolic blood pressure (mm Hg)
+blood pressure: Diastolic blood pressure (mm Hg)
 
-SkinThickness: Triceps skin fold thickness (mm)
+skin thickness: Triceps skin fold thickness (mm)
 
 Insulin: 2-Hour serum insulin (mu U/ml)
 
